@@ -21,7 +21,7 @@ fun main() {
   println(names.contentToString())
 
 }
-fun arrayOf(names:String):String{
+fun arrayOf(names:String,):String{
     return arrayOf("names")
 
 }
